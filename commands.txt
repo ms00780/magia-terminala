@@ -1,0 +1,14 @@
+  328  touch processes.txt
+  329  ls
+  330  ps aux > processes.txt
+  331  cp processes.txt copy.txt
+  332  ls 
+  333  mkdir kopia
+  334  mv copy.txt kopia/
+  335  wc -l processes.txt
+  336  wc -l processes.txt >> processe.txt
+  337  grep -l processes.txt
+  338  grep -rn /bin processe.txt >> processes.txt
+  339  history
+  340  history | tail -n 14
+  341  history | tail -n 14 > commands.txt

@@ -1,0 +1,359 @@
+USER               PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
+macbookpromikolaj  2764   9,7 11,5 107842048 964372   ??  Ss    5:56     2:36.56 /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+_windowserver      152   9,1  1,1  7325304  89960   ??  Ss   sob01    49:12.34 /System/Library/PrivateFrameworks/SkyLight.framework/Resources/WindowServer -daemon
+_coreaudiod        245   8,3  0,4  4410632  29848   ??  Ss   sob01    37:29.08 /usr/sbin/coreaudiod
+macbookpromikolaj  2757   4,4  0,8  4534952  64580   ??  Ss    5:56     1:04.23 /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking
+root               218   2,4  0,2  4429960  16792   ??  Ss   sob01     0:52.01 /usr/libexec/TouchBarServer
+macbookpromikolaj  2779   1,9  0,5  4985784  39784   ??  S     6:05     0:01.88 /Applications/Utilities/Terminal.app/Contents/MacOS/Terminal
+macbookpromikolaj  2754   1,7  2,1  6871256 177812   ??  S     5:56     0:51.97 /Applications/Safari.app/Contents/MacOS/Safari
+macbookpromikolaj   405   0,4  0,7  5068352  59104   ??  S    sob01     1:50.75 /Applications/Shazam.app/Contents/MacOS/Shazam
+macbookpromikolaj  2777   0,2  1,8 89830264 152372   ??  Ss    6:02     0:05.19 /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+root                99   0,1  0,1  4379352  12032   ??  Ss   sob01     0:46.28 /usr/libexec/corebrightnessd --launchd
+root              2819   0,0  0,2  4385612  15956   ??  Ss    6:16     0:01.20 /System/Library/PrivateFrameworks/PSNormalizer.framework/Versions/A/XPCServices/normalizerd.xpc/Contents/MacOS/normalizerd
+macbookpromikolaj  2818   0,0  0,5  4404916  38428   ??  Ss    6:16     0:00.49 /System/Library/Frameworks/QuickLook.framework/Versions/A/Resources/quicklookd.app/Contents/XPCServices/QuickLookSatellite.xpc/Contents/MacOS/QuickLookSatellite
+macbookpromikolaj  2816   0,0  0,2  4897564  19676   ??  S     6:16     0:00.13 /System/Library/Frameworks/QuickLook.framework/Resources/quicklookd.app/Contents/MacOS/quicklookd
+macbookpromikolaj  2813   0,0  0,2  4364208  19244   ??  S     6:16     0:00.08 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+macbookpromikolaj  2811   0,0  0,2  4363812  13624   ??  S     6:16     0:00.07 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+macbookpromikolaj  2810   0,0  0,2  4363752  13636   ??  S     6:16     0:00.07 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+macbookpromikolaj  2805   0,0  0,2  4364208  19284   ??  S     6:16     0:00.16 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+macbookpromikolaj  2797   0,0  0,6 106252472  48324   ??  Ss    6:13     0:00.21 /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+macbookpromikolaj  2796   0,0  2,6 89859364 218272   ??  Ss    6:13     0:13.92 /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+macbookpromikolaj  2781   0,0  0,0  4317024   1388 s000  S     6:05     0:00.03 -bash
+root              2780   0,0  0,1  4341528   4956 s000  Ss    6:05     0:00.04 login -pf macbookpromikolaj
+macbookpromikolaj  2772   0,0  0,4  4496528  34740   ??  Ss    5:57     0:00.26 /System/Library/StagedFrameworks/Safari/SafariShared.framework/Versions/A/XPCServices/com.apple.Safari.SearchHelper.xpc/Contents/MacOS/com.apple.Safari.SearchHelper
+macbookpromikolaj  2770   0,0  0,1  4331508   9100   ??  Ss    5:57     0:00.01 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+macbookpromikolaj  2767   0,0  0,1  4350340  10616   ??  Ss    5:56     0:00.02 /System/Library/Image Capture/Devices/PTPCamera.app/Contents/XPCServices/apple.DevicePropertyReader.xpc/Contents/MacOS/apple.DevicePropertyReader
+macbookpromikolaj  2766   0,0  0,5  4924044  40872   ??  S     5:56     0:01.40 /System/Library/Image Capture/Devices/PTPCamera.app/Contents/MacOS/PTPCamera -psn_0_1733031
+macbookpromikolaj  2765   0,0  0,2  4376620  20396   ??  S     5:56     0:00.06 /System/Library/CoreServices/rcd.app/Contents/MacOS/rcd
+macbookpromikolaj  2763   0,0  0,2  4450104  16812   ??  S     5:56     0:00.12 /System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/webinspectord
+macbookpromikolaj  2762   0,0  0,5  5024152  40060   ??  Ss    5:56     0:00.36 /Applications/Safari.app/Contents/XPCServices/com.apple.Safari.SandboxBroker.xpc/Contents/MacOS/com.apple.Safari.SandboxBroker
+macbookpromikolaj  2761   0,0  2,9 90030420 245116   ??  Ss    5:56     0:10.49 /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+macbookpromikolaj  2755   0,0  0,2  4410032  17400   ??  S     5:56     0:00.14 /System/Library/CoreServices/CoreServicesUIAgent.app/Contents/MacOS/CoreServicesUIAgent
+root              2735   0,0  0,1  4341588   6564   ??  Ss    5:48     0:00.05 /usr/libexec/colorsync.displayservices
+macbookpromikolaj  2734   0,0  0,2  4410568  19128   ??  S     5:48     0:00.19 /System/Library/PreferencePanes/Displays.prefPane/Contents/Resources/MirrorDisplays.app/Contents/MacOS/MirrorDisplays
+macbookpromikolaj  2728   0,0  0,1  4394684   9508   ??  S     5:46     0:00.22 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Support/atsd
+macbookpromikolaj  2634   0,0  0,2  4372084  15184   ??  S     5:31     0:00.56 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+macbookpromikolaj  2633   0,0  0,2  4386508  17996   ??  S     5:31     0:00.84 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+root              2517   0,0  0,1  4350012   6008   ??  Ss    5:25     0:00.11 /usr/libexec/diagnosticd
+root              2516   0,0  0,1  4377432   6656   ??  Ss    5:25     0:00.05 /usr/libexec/xpcroleaccountd -launchd
+root              2513   0,0  0,1  4377228   7548   ??  Ss    5:25     0:00.06 /usr/libexec/taskgated
+macbookpromikolaj  2475   0,0  0,1  4350828   5388   ??  S     5:18     0:00.02 /usr/libexec/loginitemregisterd
+_spotlight        2454   0,0  0,1  4350656  10668   ??  S     5:17     0:00.06 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+macbookpromikolaj  2377   0,0  0,1  4376960  10348   ??  Ss    5:08     0:00.10 /System/Library/PrivateFrameworks/CloudDocsDaemon.framework/XPCServices/ContainerMetadataExtractor.xpc/Contents/MacOS/ContainerMetadataExtractor
+macbookpromikolaj  2376   0,0  0,1  4379676   6496   ??  S     5:08     0:00.07 /usr/libexec/swcd
+root              2362   0,0  0,1  4378316   6300   ??  Ss    5:06     0:00.05 /usr/libexec/rtcreportingd
+macbookpromikolaj  2327   0,0  0,3  4365128  22404   ??  S    11:12     0:02.04 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+macbookpromikolaj  2252   0,0  0,1  4850288   4532   ??  Ss   10:02     0:00.05 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+macbookpromikolaj  2229   0,0  0,3  4364208  22192   ??  S    10:01     0:02.43 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+macbookpromikolaj  2226   0,0  0,3  4390728  25260   ??  S    10:00     0:03.01 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+macbookpromikolaj  2220   0,0  0,9  5181272  71392   ??  S    10:00     0:02.95 /Applications/Messenger.app/Contents/Frameworks/Messenger Helper (Renderer).app/Contents/MacOS/Messenger Helper (Renderer) --type=renderer --autoplay-policy=no-user-gesture-required --disable-background-timer-throttling --field-trial-handle=1718379636,2474974555627312723,6159872133219958010,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=pl --app-path=/Applications/Messenger.app/Contents/Resources/app.asar --enable-experimental-web-platform-features --no-sandbox --no-zygote --native-window-open --preload=/Applications/Messenger.app/Contents/Resources/app.asar/build/main/rtcPreload.js --enable-remote-module --background-color=#fff --num-raster-threads=4 --enable-zero-copy --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files
+macbookpromikolaj  2217   0,0  2,7  5613196 223332   ??  S    10:00     2:35.01 /Applications/Messenger.app/Contents/Frameworks/Messenger Helper (Renderer).app/Contents/MacOS/Messenger Helper (Renderer) --type=renderer --autoplay-policy=no-user-gesture-required --disable-background-timer-throttling --field-trial-handle=1718379636,2474974555627312723,6159872133219958010,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=pl --app-path=/Applications/Messenger.app/Contents/Resources/app.asar --enable-experimental-web-platform-features --no-sandbox --no-zygote --native-window-open --preload=/Applications/Messenger.app/Contents/Resources/app.asar/build/main/preload.js --enable-remote-module --background-color=#fff --num-raster-threads=4 --enable-zero-copy --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files
+macbookpromikolaj  2216   0,0  0,3  4580236  26600   ??  S    10:00     0:03.51 /Applications/Messenger.app/Contents/Frameworks/Messenger Helper.app/Contents/MacOS/Messenger Helper --type=utility --field-trial-handle=1718379636,2474974555627312723,6159872133219958010,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=pl --service-sandbox-type=network --shared-files
+macbookpromikolaj  2214   0,0  0,1  4378708   6080   ??  Ss   10:00     0:00.05 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
+macbookpromikolaj  2213   0,0  0,5  4758608  43056   ??  S    10:00     0:41.65 /Applications/Messenger.app/Contents/Frameworks/Messenger Helper (GPU).app/Contents/MacOS/Messenger Helper (GPU) --type=gpu-process --field-trial-handle=1718379636,2474974555627312723,6159872133219958010,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --gpu-preferences=KAAAAAAAAAAgAAAAAAAAAAAAYAAAAAAAEAAAAAAAAAAAAAAAAAAAAOgAAAAcAAAA4AAAAAAAAADoAAAAAAAAAPAAAAAAAAAA+AAAAAAAAAAAAQAAAAAAAAgBAAAAAAAAEAEAAAAAAAAYAQAAAAAAACABAAAAAAAAKAEAAAAAAAAwAQAAAAAAADgBAAAAAAAAQAEAAAAAAABIAQAAAAAAAFABAAAAAAAAWAEAAAAAAABgAQAAAAAAAGgBAAAAAAAAcAEAAAAAAAB4AQAAAAAAAIABAAAAAAAAiAEAAAAAAACQAQAAAAAAAJgBAAAAAAAAoAEAAAAAAACoAQAAAAAAALABAAAAAAAAuAEAAAAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAABgAAABAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAAAAAAACgAAABAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAAAAAAANAAAAEAAAAAAAAAABAAAAAAAAABAAAAAAAAAAAQAAAAYAAAAQAAAAAAAAAAEAAAAHAAAAEAAAAAAAAAABAAAACAAAABAAAAAAAAAAAQAAAAoAAAAQAAAAAAAAAAEAAAALAAAAEAAAAAAAAAABAAAADQAAABAAAAAAAAAABAAAAAAAAAAQAAAAAAAAAAQAAAAGAAAAEAAAAAAAAAAEAAAABwAAABAAAAAAAAAABAAAAAgAAAAQAAAAAAAAAAQAAAAKAAAAEAAAAAAAAAAEAAAACwAAABAAAAAAAAAABAAAAA0AAAAQAAAAAAAAAAYAAAAAAAAAEAAAAAAAAAAGAAAABgAAABAAAAAAAAAABgAAAAcAAAAQAAAAAAAAAAYAAAAIAAAAEAAAAAAAAAAGAAAACgAAABAAAAAAAAAABgAAAAsAAAAQAAAAAAAAAAYAAAANAAAA --shared-files
+macbookpromikolaj  2212   0,0  1,0  5444984  84660   ??  S    10:00     0:18.75 /Applications/Messenger.app/Contents/MacOS/Messenger
+root              2165   0,0  0,0  4317144   4120   ??  Ss    8:39     0:00.01 /usr/libexec/smd
+root              2096   0,0  0,1  4377108  10512   ??  Ss    3:22     0:00.15 /System/Library/CoreServices/SubmitDiagInfo server-init
+_softwareupdate   1980   0,0  0,1  4377480  10020   ??  Ss   12:05     0:00.10 /System/Library/CoreServices/Software Update.app/Contents/Resources/softwareupdate_download_service
+macbookpromikolaj  1952   0,0  0,2  4382016  18392   ??  S    12:04     0:00.67 /usr/libexec/adprivacyd
+_netbios          1941   0,0  0,1  4351864   8584   ??  SNs  11:47     0:00.22 /usr/sbin/netbiosd
+macbookpromikolaj  1924   0,0  0,1  4349696   4664   ??  Ss    8:16     0:00.07 /System/Library/PrivateFrameworks/IMFoundation.framework/XPCServices/IMRemoteURLConnectionAgent.xpc/Contents/MacOS/IMRemoteURLConnectionAgent
+macbookpromikolaj  1870   0,0  0,1  4870696  10552   ??  Ss   ndz01     0:00.05 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+macbookpromikolaj  1812   0,0  0,3  4480252  26096   ??  S    ndz12     0:06.07 /System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/SafariCloudHistoryPushAgent
+macbookpromikolaj  1808   0,0  0,4  4497224  29792   ??  S    ndz12     0:00.16 /System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/SafariLaunchAgent
+macbookpromikolaj  1806   0,0  0,4  4500500  35088   ??  S    ndz12     0:06.40 /System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/SafariBookmarksSyncAgent
+root              1799   0,0  0,1  4308924   5076   ??  Ss   ndz12     0:00.02 /usr/libexec/applessdstatistics
+macbookpromikolaj  1796   0,0  0,2  4377960  18640   ??  S    ndz12     0:00.18 /System/Library/PrivateFrameworks/IMDPersistence.framework/IMAutomaticHistoryDeletionAgent.app/Contents/MacOS/IMAutomaticHistoryDeletionAgent
+root              1794   0,0  0,3  4377944  21132   ??  Ss   ndz12     0:00.27 /usr/libexec/findmydeviced
+_datadetectors    1783   0,0  0,1  4300876   4472   ??  Ss   ndz12     0:00.05 /usr/libexec/DataDetectorsSourceAccess
+root              1767   0,0  0,0  4309176    628   ??  SNs  ndz12     0:00.01 /usr/libexec/periodic-wrapper weekly
+macbookpromikolaj  1763   0,0  0,1  4377372  11520   ??  S    ndz12     0:00.88 /System/Library/PrivateFrameworks/FileProvider.framework/Support/fileproviderd
+macbookpromikolaj  1761   0,0  0,1  4333976   7968   ??  S    ndz12     0:00.01 /System/Library/CoreServices/ReportCrash agent
+root              1743   0,0  0,1  4318896   5648   ??  Ss   ndz12     0:00.06 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar -daemon
+root              1742   0,0  0,1  4381384   7360   ??  Ss   ndz12     0:00.25 /usr/sbin/systemsoundserverd
+macbookpromikolaj  1741   0,0  0,1  4377560  10404   ??  S    ndz12     0:00.17 /System/Library/PrivateFrameworks/UsageTracking.framework/Versions/A/UsageTrackingAgent
+macbookpromikolaj  1734   0,0  0,2  4379040  13528   ??  S    ndz12     0:00.51 /System/Library/CoreServices/mapspushd
+_spotlight        1721   0,0  0,1  4380240   7136   ??  S    ndz12     0:00.40 /usr/libexec/trustd --agent
+macbookpromikolaj  1710   0,0  0,2  4384284  18620   ??  S    ndz12     0:03.75 /System/Library/PrivateFrameworks/CallHistory.framework/Support/CallHistorySyncHelper
+macbookpromikolaj  1709   0,0  0,1  4383848  11628   ??  S    ndz12     0:02.04 /System/Library/PrivateFrameworks/CallHistory.framework/Support/CallHistoryPluginHelper
+macbookpromikolaj  1707   0,0  0,2  4382644  17116   ??  S    ndz12     0:03.30 /System/Library/PrivateFrameworks/AppStoreDaemon.framework/Support/appstoreagent
+macbookpromikolaj  1702   0,0  0,1  4350280   5176   ??  S    ndz12     0:00.16 /System/Library/PrivateFrameworks/ToneLibrary.framework/Versions/A/XPCServices/com.apple.tonelibraryd.xpc/Contents/MacOS/com.apple.tonelibraryd
+macbookpromikolaj  1701   0,0  0,1  4378512  11064   ??  Ss   ndz12     0:00.68 /System/Library/PrivateFrameworks/IMFoundation.framework/XPCServices/IMRemoteURLConnectionAgent.xpc/Contents/MacOS/IMRemoteURLConnectionAgent
+root              1700   0,0  0,0  4350280   1236   ??  Ss   ndz12     0:00.08 /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/XPCServices/com.apple.cmio.registerassistantservice.xpc/Contents/MacOS/com.apple.cmio.registerassistantservice
+macbookpromikolaj  1686   0,0  0,1  4333384   4640   ??  S    ndz11     0:00.06 /System/Library/Frameworks/ColorSync.framework/Support/colorsync.useragent
+root              1685   0,0  0,1  4334164   4336   ??  Ss   ndz11     0:00.03 /usr/libexec/colorsyncd
+macbookpromikolaj  1682   0,0  0,1  4380036  10832   ??  S    ndz11     0:01.52 /Applications/iTunes.app/Contents/MacOS/iTunesHelper.app/Contents/MacOS/iTunesHelper --launchd
+macbookpromikolaj  1552   0,0  0,1  4380576  12456   ??  Ss   ndz02     0:00.16 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/XPCServices/com.apple.CommerceKit.TransactionService.xpc/Contents/MacOS/com.apple.CommerceKit.TransactionService
+macbookpromikolaj  1549   0,0  0,1  4351004  11432   ??  S    ndz02     0:00.11 /System/Library/CoreServices/Software Update.app/Contents/Resources/softwareupdate_notify_agent
+root              1548   0,0  0,1  4350736   9860   ??  Ss   ndz02     0:00.11 /System/Library/CoreServices/Software Update.app/Contents/Resources/suhelperd
+_softwareupdate   1547   0,0  0,2  4546120  18688   ??  Ss   ndz02     0:25.27 /System/Library/CoreServices/Software Update.app/Contents/Resources/softwareupdated
+root              1545   0,0  0,1  4381672  10164   ??  Ss   ndz02     0:02.72 /System/Library/CoreServices/ReportCrash daemon
+macbookpromikolaj  1541   0,0  0,2  4384144  20856   ??  S    ndz01     0:01.12 /usr/libexec/fmfd
+macbookpromikolaj  1537   0,0  0,2  4381248  14060   ??  S    ndz01     0:00.26 /usr/libexec/keyboardservicesd
+macbookpromikolaj  1520   0,0  0,1  4309300   4328   ??  Ss   ndz12     0:00.02 /System/Library/CoreServices/ControlStrip.app/Contents/XPCServices/com.apple.DFRSystemExtra.ScreenLock.xpc/Contents/MacOS/com.apple.DFRSystemExtra.ScreenLock
+macbookpromikolaj  1487   0,0  0,3  4384964  28620   ??  Ss   ndz12     0:01.69 /System/Library/PrivateFrameworks/CalendarNotification.framework/Versions/A/XPCServices/CalNCService.xpc/Contents/MacOS/CalNCService
+root              1473   0,0  0,1  4350552   4568   ??  Ss   sob11     0:00.08 aslmanager
+root              1471   0,0  0,1  4333300   8588   ??  Ss   sob11     0:00.02 /System/Library/PrivateFrameworks/PackageKit.framework/Resources/system_installd
+root              1470   0,0  0,1  4368116   9316   ??  Ss   sob11     0:00.07 /System/Library/PrivateFrameworks/PackageKit.framework/Resources/installd
+macbookpromikolaj  1453   0,0  0,3  4352928  21436   ??  S    sob11     0:00.31 /System/Library/PrivateFrameworks/PrintingPrivate.framework/Versions/A/PrintUITool
+root              1452   0,0  0,1  4377604   9168   ??  Ss   sob11     0:00.35 /usr/libexec/usbd
+root              1451   0,0  0,1  4341584   9000   ??  Ss   sob11     0:00.05 /System/Library/CryptoTokenKit/com.apple.ifdreader.slotd/Contents/MacOS/com.apple.ifdreader
+root              1449   0,0  0,1  4334128   4568   ??  Ss   sob11     0:00.03 /System/Library/Frameworks/GSS.framework/Helpers/GSSCred
+macbookpromikolaj  1445   0,0  0,1  4376812   5468   ??  S    sob11     0:00.09 /System/Library/Frameworks/DiskArbitration.framework/Versions/A/Support/DiskArbitrationAgent
+macbookpromikolaj  1441   0,0  0,5  4432216  40428   ??  S    sob11     0:03.76 /System/Library/PrivateFrameworks/IMDPersistence.framework/XPCServices/IMDPersistenceAgent.xpc/Contents/MacOS/IMDPersistenceAgent
+macbookpromikolaj  1440   0,0  0,2  4377228  14352   ??  S    sob11     0:00.20 /System/Library/PrivateFrameworks/ProtectedCloudStorage.framework/Helpers/ProtectedCloudKeySyncing
+root              1438   0,0  0,1  4378708   6676   ??  S    sob11     0:00.23 /usr/libexec/secinitd
+root              1437   0,0  0,1  4392960   9356   ??  S    sob11     0:02.20 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+root              1434   0,0  0,1  4333828   4812   ??  Ss   sob11     0:00.02 /System/Library/PrivateFrameworks/AccountPolicy.framework/XPCServices/com.apple.AccountPolicyHelper.xpc/Contents/MacOS/com.apple.AccountPolicyHelper
+_ctkd             1433   0,0  0,1  4351448   8148   ??  Ss   sob11     0:00.02 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -s
+macbookpromikolaj  1432   0,0  0,1  4351556   8820   ??  S    sob11     0:00.09 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -tw
+macbookpromikolaj  1431   0,0  0,1  4351120   8808   ??  S    sob11     0:00.08 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp
+macbookpromikolaj  1430   0,0  0,1  4341780   8516   ??  S    sob11     0:00.04 /System/Library/PrivateFrameworks/CoreFollowUp.framework/Versions/A/Support/followupd
+root              1429   0,0  0,1  4351000   8384   ??  Ss   sob11     0:00.04 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp -d
+macbookpromikolaj  1428   0,0  0,3  4447432  26476   ??  S    sob11     0:00.18 /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/reversetemplated
+macbookpromikolaj  1420   0,0  0,1  4378468  11000   ??  Ss   sob11     0:00.41 /System/Library/PrivateFrameworks/IMFoundation.framework/XPCServices/IMRemoteURLConnectionAgent.xpc/Contents/MacOS/IMRemoteURLConnectionAgent
+macbookpromikolaj  1418   0,0  0,4  4387664  32180   ??  S    sob11     0:06.16 /System/Library/PrivateFrameworks/MessagesKit.framework/Resources/soagent.app/Contents/MacOS/soagent
+root              1417   0,0  0,2  4377748  15612   ??  Ss   sob11     0:00.22 /usr/libexec/dmd
+_applepay         1416   0,0  0,1  4377628   7268   ??  Ss   sob11     0:00.28 /usr/libexec/nfcd
+root              1415   0,0  0,1  4300728   4444   ??  Ss   sob11     0:00.02 /usr/libexec/keybagd -t 15
+macbookpromikolaj  1402   0,0  0,1  4317172   8344   ??  Ss   sob11     0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+macbookpromikolaj  1363   0,0  0,1  4379152  10024   ??  Ss   sob10     0:00.28 /System/Library/Frameworks/iTunesLibrary.framework/Versions/A/XPCServices/com.apple.iTunesLibraryService.xpc/Contents/MacOS/com.apple.iTunesLibraryService
+macbookpromikolaj  1362   0,0  0,3  4458884  25152   ??  Ss   sob10     0:01.28 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/XPCServices/media-indexer.xpc/Contents/MacOS/media-indexer
+macbookpromikolaj  1357   0,0  0,1  4351396  11144   ??  S    sob10     0:00.30 /usr/libexec/silhouette
+root              1292   0,0  0,0  4309176    624   ??  SNs  sob10     0:00.02 /usr/libexec/periodic-wrapper daily
+_windowserver     1218   0,0  0,2  4861136  17256   ??  Ss   sob10     0:00.24 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+macbookpromikolaj  1160   0,0  0,4  5022712  31732   ??  Ss   sob09     0:09.84 /System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+macbookpromikolaj  1021   0,0  0,1  4350040   5896   ??  S    sob07     0:00.21 /usr/libexec/assertiond
+macbookpromikolaj   956   0,0  0,3  4416888  25848   ??  S    sob05     0:02.49 /usr/libexec/avconferenced
+macbookpromikolaj   883   0,0  0,1  4350360   5160   ??  S    sob05     0:00.10 /System/Library/PrivateFrameworks/KerberosHelper/Helpers/DiskUnmountWatcher
+macbookpromikolaj   777   0,0  0,3  4411376  21576   ??  S    sob02     0:06.31 /System/Library/PrivateFrameworks/MobileDevice.framework/Resources/MobileDeviceUpdater.app/Contents/MacOS/MobileDeviceUpdater
+root               774   0,0  0,1  4403952   6936   ??  Ss   sob02     0:08.52 /usr/libexec/sandboxd
+macbookpromikolaj   746   0,0  0,1  4351368   7884   ??  S    sob02     0:00.07 /usr/libexec/USBAgent
+macbookpromikolaj   743   0,0  0,2  4410352  17496   ??  S    sob02     0:06.13 /System/Library/CoreServices/PowerChime.app/Contents/MacOS/PowerChime
+macbookpromikolaj   738   0,0  0,2  4377816  13564   ??  S    sob02     0:00.98 /System/Library/PrivateFrameworks/CoreRecents.framework/Versions/A/Support/recentsd
+macbookpromikolaj   734   0,0  0,3  4386508  25100   ??  S    sob02     0:02.32 /System/Library/PrivateFrameworks/PassKitCore.framework/passd
+macbookpromikolaj   726   0,0  0,3  4931908  21516   ??  S    sob02     0:05.27 /System/Library/CoreServices/OSDUIHelper.app/Contents/MacOS/OSDUIHelper
+macbookpromikolaj   716   0,0  0,1  4350292   5228   ??  S    sob02     0:00.19 /System/Library/Frameworks/MediaAccessibility.framework/Versions/A/XPCServices/com.apple.accessibility.mediaaccessibilityd.xpc/Contents/MacOS/com.apple.accessibility.mediaaccessibilityd
+macbookpromikolaj   713   0,0  0,2  4928660  16892   ??  S    sob02     0:03.87 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreautha.bundle/Contents/MacOS/coreautha
+root               702   0,0  0,1  4349804  11352   ??  Ss   sob02     0:00.11 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeinstalld
+macbookpromikolaj   700   0,0  0,1  4378524  10532   ??  S    sob02     0:01.68 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker -s mdworker-sizing -c MDSSizingWorker -m com.apple.mdworker.sizing
+_spotlight         699   0,0  0,1  4378508  10128   ??  S    sob02     0:00.51 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker -s mdworker-sizing -c MDSSizingWorker -m com.apple.mdworker.sizing
+_softwareupdate    688   0,0  0,0  4350956   1184   ??  S    sob02     0:00.18 /usr/sbin/distnoted agent
+_softwareupdate    687   0,0  0,0  4317408   1128   ??  S    sob02     0:00.34 /usr/sbin/cfprefsd agent
+_atsserver         684   0,0  0,1  4378644   6212   ??  Ss   sob02     0:00.48 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Support/fontd
+macbookpromikolaj   677   0,0  0,3  4406548  21528   ??  Ss   sob02     0:00.54 /System/Library/PrivateFrameworks/PhotoLibraryPrivate.framework/Versions/A/Frameworks/PhotoLibraryServices.framework/Versions/A/XPCServices/com.apple.photomodel.xpc/Contents/MacOS/com.apple.photomodel
+root               636   0,0  0,1  4382984   6880   ??  Ss   sob01     0:01.15 /usr/libexec/mobileactivationd
+_spotlight         621   0,0  0,0  4350956   1368   ??  S    sob01     0:00.18 /usr/sbin/distnoted agent
+macbookpromikolaj   603   0,0  0,1  4378208   8644   ??  S    sob01     0:00.60 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdwrite
+macbookpromikolaj   602   0,0  0,1  4439092   6720   ??  S    sob01     0:00.27 /System/Library/PrivateFrameworks/ContextKit.framework/Versions/A/XPCServices/ContextService.xpc/Contents/MacOS/ContextService
+_locationd         599   0,0  0,0  4350956   1284   ??  S    sob01     0:00.18 /usr/sbin/distnoted agent
+_locationd         597   0,0  0,0  4350176   1212   ??  S    sob01     0:00.36 /usr/sbin/cfprefsd agent
+macbookpromikolaj   593   0,0  0,1  4379404   9968   ??  S    sob01     0:00.48 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/SpeechSynthesis.framework/Resources/com.apple.speech.speechsynthesisd
+macbookpromikolaj   591   0,0  0,1  4378760   7408   ??  S    sob01     0:00.33 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar
+root               587   0,0  0,1  4382764   6820   ??  Ss   sob01     0:00.48 /usr/libexec/dprivacyd
+macbookpromikolaj   586   0,0  0,5  4775480  42260   ??  S    sob01     0:03.76 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/corespotlightd
+macbookpromikolaj   575   0,0  0,1  4401492   9768   ??  S    sob01     0:13.35 /System/Library/PrivateFrameworks/SafariSafeBrowsing.framework/com.apple.Safari.SafeBrowsing.Service
+macbookpromikolaj   570   0,0  1,3  4795876 106580   ??  S    sob01     3:21.97 /Applications/Backup and Sync.app/Contents/MacOS/Backup and Sync --child_process --profile_id user_VJZwh2UWEeqQCqzeSAARIg
+macbookpromikolaj   564   0,0  0,3  4405180  22132   ??  S    sob01     0:03.44 /System/Library/PrivateFrameworks/CommerceKit.framework/Resources/LaterAgent.app/Contents/MacOS/LaterAgent
+macbookpromikolaj   560   0,0  0,2  4394796  18792   ??  S    sob01     0:03.18 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeassetd
+macbookpromikolaj   559   0,0  0,2  4377564  15352   ??  S    sob01     0:00.14 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storelegacy
+macbookpromikolaj   554   0,0  0,1  4377964  11212   ??  S    sob01     0:53.14 /Applications/Utilities/Adobe Sync/CoreSync/Core Sync.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/AdobeCRDaemon.app/Contents/MacOS/AdobeCRDaemon 548 Core Sync 4.3.16.14 /Applications/Utilities/Adobe Sync/CoreSync/Core Sync.app/Contents/Resources/CreativeCloudIcons.icns /Applications/Utilities/Adobe Sync/CoreSync/Core Sync.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Reporter.app/Contents/MacOS/Adobe Crash Reporter 0          Adobe Sync
+macbookpromikolaj   550   0,0  0,3  4594160  28420   ??  S    sob01     0:30.16 /Applications/Backup and Sync.app/Contents/MacOS/Backup and Sync --ma_controller
+macbookpromikolaj   549   0,0  0,2  5031444  17100   ??  S    sob01     0:09.12 /Applications/Utilities/Adobe Creative Cloud Experience/CCXProcess/CCXProcess.app/Contents/MacOS/../libs/Adobe_CCXProcess.node /Applications/Utilities/Adobe Creative Cloud Experience/CCXProcess/CCXProcess.app/Contents/MacOS/../js/main.js
+macbookpromikolaj   548   0,0  0,2  4986280  17072   ??  S    sob01     0:13.53 /Applications/Utilities/Adobe Sync/CoreSync/Core Sync.app/Contents/MacOS/Core Sync
+macbookpromikolaj   544   0,0  0,1  4377964  11256   ??  S    sob01     0:50.02 /Library/Application Support/Adobe/Adobe Desktop Common/ADS/Adobe Desktop Service.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/AdobeCRDaemon.app/Contents/MacOS/AdobeCRDaemon 524 Adobe Desktop Service 5.0.0 /Library/Application Support/Adobe/Adobe Desktop Common/ADS/Adobe Desktop Service.app/Contents/Resources/CreativeCloudApp.icns /Library/Application Support/Adobe/Adobe Desktop Common/ADS/Adobe Desktop Service.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Reporter.app/Contents/MacOS/Adobe Crash Reporter 0      5.0.0 5.0.0.354   Adobe Desktop Service 1 1
+macbookpromikolaj   524   0,0  0,4  5660004  36500   ??  S    sob01     0:49.52 /Library/Application Support/Adobe/Adobe Desktop Common/ADS/Adobe Desktop Service.app/Contents/MacOS/Adobe Desktop Service --onOSstartup=true --showwindow=false
+macbookpromikolaj   517   0,0  0,8  4535712  69932   ??  S    sob01     0:11.39 /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/suggestd
+macbookpromikolaj   504   0,0  0,4  4429388  30088   ??  S    sob01     0:13.00 /System/Library/PrivateFrameworks/PhotoAnalysis.framework/Versions/A/Support/photoanalysisd
+macbookpromikolaj   503   0,0  0,3  4408160  22536   ??  Ss   sob01     0:01.39 /System/Library/PrivateFrameworks/PhotoLibraryPrivate.framework/Versions/A/Frameworks/PhotoLibraryServices.framework/Versions/A/XPCServices/com.apple.photomoments.xpc/Contents/MacOS/com.apple.photomoments
+macbookpromikolaj   502   0,0  0,1  4381608   7060   ??  S    sob01     0:01.47 /System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService -a
+macbookpromikolaj   500   0,0  1,0  4623120  81852   ??  S    sob01     0:09.25 /System/Library/Services/AppleSpell.service/Contents/MacOS/AppleSpell
+macbookpromikolaj   499   0,0  0,1  4377964  11492   ??  S    sob01     0:50.04 /Library/Application Support/Adobe/Adobe Desktop Common/IPCBox/AdobeIPCBroker.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/AdobeCRDaemon.app/Contents/MacOS/AdobeCRDaemon 498 AdobeIPCBroker 5.6.1.39 /Library/Application Support/Adobe/Adobe Desktop Common/IPCBox/AdobeIPCBroker.app/Contents/Resources/CSXS.icns /Library/Application Support/Adobe/Adobe Desktop Common/IPCBox/AdobeIPCBroker.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Reporter.app/Contents/MacOS/Adobe Crash Reporter 1      5.6.1.39 vulcan   AdobeIPCBroker 0 1
+macbookpromikolaj   498   0,0  0,2  4406808  15352   ??  S    sob01     0:20.97 /Library/Application Support/Adobe/Adobe Desktop Common/IPCBox/AdobeIPCBroker.app/Contents/MacOS/AdobeIPCBroker -launchedbyvulcan /Applications/Utilities/Adobe Creative Cloud/ACC/Creative Cloud.app/Contents/MacOS/Creative Cloud
+root               493   0,0  0,1  4388552   6296   ??  Ss   sob01     0:01.09 /System/Library/CoreServices/iconservicesagent runAsRoot
+macbookpromikolaj   490   0,0  0,1  4350920   5480   ??  S    sob01     0:00.11 /usr/libexec/spindump_agent
+root               489   0,0  0,2  4380664  17020   ??  Ss   sob01     0:00.85 /usr/sbin/spindump
+macbookpromikolaj   488   0,0  0,2  4900544  13832   ??  S    sob01     0:03.07 /Library/Developer/PrivateFrameworks/CoreSimulator.framework/Versions/A/XPCServices/SimulatorTrampoline.xpc/Contents/MacOS/SimulatorTrampoline
+macbookpromikolaj   486   0,0  0,2  4903060  16608   ??  S    sob01     0:03.92 /Library/Developer/PrivateFrameworks/CoreSimulator.framework/Versions/A/XPCServices/com.apple.CoreSimulator.CoreSimulatorService.xpc/Contents/MacOS/com.apple.CoreSimulator.CoreSimulatorService
+macbookpromikolaj   477   0,0  0,1  4350332   6004   ??  S    sob01     0:01.72 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/XPCServices/com.apple.hiservices-xpcservice.xpc/Contents/MacOS/com.apple.hiservices-xpcservice
+macbookpromikolaj   476   0,0  0,7  4513788  57004   ??  S    sob01     0:14.32 /System/Library/StagedFrameworks/Safari/SafariShared.framework/XPCServices/com.apple.Safari.History.xpc/Contents/MacOS/com.apple.Safari.History
+macbookpromikolaj   448   0,0  0,2  4420688  18288   ??  S    sob01     0:18.98 /System/Library/PrivateFrameworks/PhotoLibraryPrivate.framework/Versions/A/Support/photolibraryd
+macbookpromikolaj   446   0,0  0,1  4383116   7452   ??  S    sob01     0:00.82 /System/Library/CoreServices/pbs
+macbookpromikolaj   445   0,0  0,3  4429036  24708   ??  Ss   sob01     0:00.88 /System/Library/Frameworks/MediaLibrary.framework/Versions/A/XPCServices/com.apple.MediaLibraryService.xpc/Contents/MacOS/com.apple.MediaLibraryService
+macbookpromikolaj   444   0,0  0,1  4350624   6484   ??  S    sob01     0:00.46 /usr/libexec/SidecarRelay
+macbookpromikolaj   430   0,0  0,3  4406728  23344   ??  S    sob01     0:00.54 /System/Library/PrivateFrameworks/CloudPhotoServices.framework/Versions/A/Frameworks/CloudPhotosConfigurationXPC.framework/Versions/A/XPCServices/com.apple.CloudPhotosConfiguration.xpc/Contents/MacOS/com.apple.CloudPhotosConfiguration
+macbookpromikolaj   429   0,0  0,1  4376836  12412   ??  Ss   sob01     0:01.45 /System/Library/PrivateFrameworks/CoreWLANKit.framework/Versions/A/XPCServices/WiFiProxy.xpc/Contents/MacOS/WiFiProxy
+macbookpromikolaj   428   0,0  0,1  4378500  12052   ??  S    sob01     0:02.51 /usr/libexec/videosubscriptionsd
+macbookpromikolaj   425   0,0  0,1  4395144  11792   ??  S    sob01     0:02.57 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+macbookpromikolaj   423   0,0  0,3  4392968  25132   ??  S    sob01     0:08.95 /System/Library/PrivateFrameworks/CoreParsec.framework/parsecd
+macbookpromikolaj   420   0,0  0,4  4918684  31588   ??  Ss   sob01     0:03.94 /System/Library/CoreServices/Dock.app/Contents/XPCServices/com.apple.dock.extra.xpc/Contents/MacOS/com.apple.dock.extra
+macbookpromikolaj   418   0,0  0,5  4975036  45688   ??  S    sob01     0:08.50 /System/Library/CoreServices/Spotlight.app/Contents/MacOS/Spotlight
+root               412   0,0  0,1  4378396   6592   ??  Ss   sob01     0:00.14 /usr/bin/sysdiagnose
+_assetcache        411   0,0  0,1  4380196  10224   ??  Ss   sob01     0:00.21 /usr/libexec/AssetCache/AssetCache
+macbookpromikolaj   410   0,0  0,2  4379824  15208   ??  S    sob01     0:00.18 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storedownloadd
+macbookpromikolaj   409   0,0  0,1  4376612   6572   ??  S    sob01     0:00.11 /System/Library/PrivateFrameworks/QuickLookThumbnailing.framework/Support/com.apple.quicklook.ThumbnailsAgent
+macbookpromikolaj   407   0,0  0,4  4484840  36184   ??  S    sob01     0:17.45 /System/Library/CoreServices/cloudphotosd.app/Contents/MacOS/cloudphotosd
+macbookpromikolaj   404   0,0  0,1  4379204   6880   ??  S    sob01     0:00.58 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted
+macbookpromikolaj   400   0,0  1,0  5256772  87520   ??  S    sob01     3:29.48 /Applications/Backup and Sync.app/Contents/MacOS/Backup and Sync
+macbookpromikolaj   398   0,0  0,2  4427184  15088   ??  Ss   sob01     0:08.21 /Applications/MEGAsync.app/Contents/PlugIns/MEGAShellExtFinder.appex/Contents/MacOS/MEGAShellExtFinder
+macbookpromikolaj   386   0,0  2,2  5164648 182628   ??  S    sob01     2:18.91 /System/Library/CoreServices/Finder.app/Contents/MacOS/Finder
+macbookpromikolaj   385   0,0  0,6  4961492  53996   ??  S    sob01     0:37.49 /System/Library/CoreServices/SystemUIServer.app/Contents/MacOS/SystemUIServer
+macbookpromikolaj   383   0,0  1,4  5074208 118548   ??  S    sob01     2:45.68 /System/Library/CoreServices/Dock.app/Contents/MacOS/Dock
+macbookpromikolaj   379   0,0  0,2  4379728  17372   ??  S    sob01     0:01.35 /System/Library/CoreServices/diagnostics_agent
+macbookpromikolaj   378   0,0  0,3  4409268  21560   ??  S    sob01     0:04.92 /System/Library/PrivateFrameworks/Noticeboard.framework/Versions/A/Resources/nbagent.app/Contents/MacOS/nbagent
+macbookpromikolaj   375   0,0  0,2  4378304  20052   ??  S    sob01     0:10.13 /System/Library/CoreServices/cloudpaird
+macbookpromikolaj   374   0,0  0,2  4384036  17700   ??  S    sob01     0:03.92 /usr/libexec/knowledge-agent
+macbookpromikolaj   372   0,0  0,2  4909328  15368   ??  S    sob01     0:03.84 /System/Library/CoreServices/AirPlayUIAgent.app/Contents/MacOS/AirPlayUIAgent --launchd
+macbookpromikolaj   371   0,0  0,2  4380596  14708   ??  S    sob01     0:21.46 /Library/Application Support/Adobe/AdobeGCClient/AGMService -mode=logon
+macbookpromikolaj   368   0,0  0,2  4384540  16296   ??  S    sob01     0:03.74 /System/Library/Image Capture/Support/icdd
+macbookpromikolaj   367   0,0  0,2  4377812  15816   ??  S    sob01     0:00.37 /usr/libexec/dmd
+macbookpromikolaj   364   0,0  0,2  4376432  12656   ??  S    sob01     0:00.17 /System/Library/CoreServices/SocialPushAgent.app/Contents/MacOS/SocialPushAgent
+macbookpromikolaj   359   0,0  0,3  4377680  22820   ??  S    sob01     0:04.08 /System/Library/PrivateFrameworks/CoreSpeech.framework/corespeechd
+macbookpromikolaj   355   0,0  0,1  4376624   6632   ??  S    sob01     0:00.30 /System/Library/PrivateFrameworks/CommunicationsFilter.framework/CMFSyncAgent
+root               353   0,0  0,1  4350820   6944   ??  Ss   sob01     0:00.41 /usr/sbin/filecoordinationd
+macbookpromikolaj   350   0,0  0,2  4901684  14720   ??  Ss   sob01     0:02.87 /System/Library/Input Methods/PressAndHold.app/Contents/PlugIns/PAH_Extension.appex/Contents/MacOS/PAH_Extension
+macbookpromikolaj   349   0,0  0,3  5110020  21520   ??  Ss   sob01     0:07.43 /System/Library/Input Methods/EmojiFunctionRowIM.app/Contents/PlugIns/EmojiFunctionRowIM_Extension.appex/Contents/MacOS/EmojiFunctionRowIM_Extension
+macbookpromikolaj   347   0,0  0,1  4380184  11976   ??  S    sob01     0:02.68 /System/Library/Frameworks/InputMethodKit.framework/Resources/imklaunchagent
+macbookpromikolaj   346   0,0  0,2  4388048  15588   ??  S    sob01     0:05.29 /System/Library/PrivateFrameworks/CloudServices.framework/Versions/A/XPCServices/com.apple.sbd.xpc/Contents/MacOS/com.apple.sbd
+_fpsd              345   0,0  0,1  4354012   8308   ??  Ss   sob01     0:01.28 /System/Library/PrivateFrameworks/CoreADI.framework/adid
+macbookpromikolaj   344   0,0  0,2  4406272  15340   ??  S    sob01     0:03.69 /System/Library/CoreServices/CoreLocationAgent.app/Contents/MacOS/CoreLocationAgent
+macbookpromikolaj   343   0,0  0,3  4396688  26528   ??  S    sob01     0:09.58 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/commerce
+macbookpromikolaj   340   0,0  0,1  4349736   6008   ??  S    sob01     0:00.63 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoteagent
+macbookpromikolaj   338   0,0  0,2  4378244  17092   ??  S    sob01     0:00.19 /System/Library/PrivateFrameworks/FamilyCircle.framework/Versions/A/Resources/familycircled
+macbookpromikolaj   337   0,0  0,1  4378808   8988   ??  S    sob01     0:00.91 /System/Library/CoreServices/sharedfilelistd
+macbookpromikolaj   336   0,0  0,1  4382940  11192   ??  Ss   sob01     0:01.68 /System/Library/PrivateFrameworks/IMFoundation.framework/XPCServices/IMRemoteURLConnectionAgent.xpc/Contents/MacOS/IMRemoteURLConnectionAgent
+macbookpromikolaj   335   0,0  0,2  4351560  15288   ??  S    sob01     0:00.24 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeaccountd
+macbookpromikolaj   334   0,0  0,2  4383056  14088   ??  S    sob01     0:07.85 /usr/libexec/pkd
+macbookpromikolaj   332   0,0  0,1  4378576   9988   ??  S    sob01     0:09.84 /System/Library/PrivateFrameworks/UserActivity.framework/Agents/useractivityd
+macbookpromikolaj   330   0,0  0,4  4411048  35332   ??  S    sob01     1:03.79 /usr/libexec/sharingd
+macbookpromikolaj   329   0,0  0,1  4377780  12312   ??  S    sob01     0:05.43 /System/Library/PrivateFrameworks/ViewBridge.framework/Versions/A/XPCServices/ViewBridgeAuxiliary.xpc/Contents/MacOS/ViewBridgeAuxiliary
+macbookpromikolaj   327   0,0  0,2  4403016  14572   ??  S    sob01     0:03.92 /System/Library/CoreServices/talagent
+macbookpromikolaj   326   0,0  0,2  4402032  14708   ??  S    sob01     0:04.40 /System/Library/CoreServices/WiFiAgent.app/Contents/MacOS/WiFiAgent
+macbookpromikolaj   324   0,0  0,1  4383808  11872   ??  S    sob01     0:15.36 /usr/libexec/nsurlstoraged
+macbookpromikolaj   323   0,0  0,4  4401412  31856   ??  S    sob01     0:03.36 /System/Library/CoreServices/Keychain Circle Notification.app/Contents/MacOS/Keychain Circle Notification
+macbookpromikolaj   322   0,0  0,3  4350056  26440   ??  S    sob01     0:00.22 /System/Library/CoreServices/EscrowSecurityAlert.app/Contents/MacOS/EscrowSecurityAlert
+macbookpromikolaj   321   0,0  0,1  4349732   8832   ??  S    sob01     0:00.12 /System/Library/PrivateFrameworks/CoreCDP.framework/Versions/A/Resources/cdpd
+macbookpromikolaj   319   0,0  0,1  4384248  10220   ??  S    sob01     0:03.00 /System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/Support/akd
+root               318   0,0  0,1  4377812   6972   ??  Ss   sob01     0:09.99 /usr/sbin/wirelessproxd
+macbookpromikolaj   317   0,0  0,4  4413800  36140   ??  S    sob01     0:10.65 /System/Library/PrivateFrameworks/CalendarAgent.framework/Executables/CalendarAgent
+macbookpromikolaj   316   0,0  0,1  4350816   5564   ??  S    sob01     0:00.58 /usr/libexec/pboard
+macbookpromikolaj   315   0,0  0,1  4353256   5704   ??  S    sob01     0:00.89 /System/Library/Frameworks/Security.framework/Versions/A/Resources/CloudKeychainProxy.bundle/Contents/MacOS/CloudKeychainProxy
+root               314   0,0  0,1  4349756   5316   ??  Ss   sob01     0:00.09 /System/Library/CoreServices/CrashReporterSupportHelper server-init
+macbookpromikolaj   311   0,0  0,7  5148412  62448   ??  S    sob01     0:42.45 /System/Library/CoreServices/NotificationCenter.app/Contents/MacOS/NotificationCenter
+macbookpromikolaj   310   0,0  0,2  4456796  14352   ??  S    sob01     0:32.57 /System/Library/CoreServices/iconservicesagent
+macbookpromikolaj   308   0,0  0,2  4380964  20484   ??  S    sob01     0:02.00 /System/Library/PrivateFrameworks/CloudDocsDaemon.framework/Versions/A/Support/bird
+macbookpromikolaj   307   0,0  0,3  4384712  24348   ??  S    sob01     0:01.53 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support/assistantd
+macbookpromikolaj   306   0,0  0,1  4379172   8696   ??  S    sob01     0:01.54 /usr/libexec/secinitd
+macbookpromikolaj   304   0,0  0,1  4378556   9644   ??  S    sob01     0:00.18 /usr/libexec/networkserviceproxy
+macbookpromikolaj   303   0,0  0,4  4940272  30548   ??  S    sob01     0:29.92 /System/Library/CoreServices/ControlStrip.app/Contents/MacOS/ControlStrip
+macbookpromikolaj   302   0,0  0,2  4380412  16704   ??  S    sob01     0:02.38 /usr/sbin/usernoted
+macbookpromikolaj   301   0,0  0,4  4389836  33928   ??  S    sob01     0:06.99 /usr/libexec/routined LAUNCHED_BY_LAUNCHD
+macbookpromikolaj   300   0,0  0,2  4349888  18516   ??  S    sob01     0:01.47 /System/Library/Frameworks/AddressBook.framework/Executables/ContactsAccountsService
+macbookpromikolaj   299   0,0  0,3  4381900  28832   ??  S    sob01     0:02.61 /System/Library/PrivateFrameworks/HomeKitDaemon.framework/Support/homed
+macbookpromikolaj   297   0,0  0,2  4379184  19140   ??  S    sob01     0:04.98 /usr/libexec/rapportd
+macbookpromikolaj   296   0,0  0,4  4389552  31728   ??  S    sob01     0:07.28 /System/Library/PrivateFrameworks/IMCore.framework/imagent.app/Contents/MacOS/imagent
+macbookpromikolaj   295   0,0  0,2  4390320  19732   ??  S    sob01     0:07.85 /System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd
+macbookpromikolaj   294   0,0  0,3  4397152  21744   ??  S    sob01     0:11.86 /usr/libexec/nsurlsessiond
+macbookpromikolaj   293   0,0  0,1  4385040  11028   ??  S    sob01     0:01.78 /System/Library/PrivateFrameworks/TCC.framework/Resources/tccd
+macbookpromikolaj   292   0,0  0,5  4544672  45544   ??  S    sob01     0:28.79 /System/Library/Frameworks/Accounts.framework/Versions/A/Support/accountsd
+macbookpromikolaj   290   0,0  0,3  4389164  29156   ??  S    sob01     0:09.69 /System/Library/PrivateFrameworks/TelephonyUtilities.framework/callservicesd
+root               289   0,0  0,1  4377460  11944   ??  Ss   sob01     0:01.19 /usr/sbin/WirelessRadioManagerd
+macbookpromikolaj   288   0,0  0,5  4407552  39092   ??  S    sob01     0:36.18 /System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd
+macbookpromikolaj   287   0,0  0,2  4392684  17732   ??  S    sob01     0:30.22 /usr/libexec/secd
+macbookpromikolaj   286   0,0  0,1  4379124   7436   ??  S    sob01     0:00.46 /System/Library/CoreServices/backgroundtaskmanagementagent
+macbookpromikolaj   284   0,0  0,1  4379884   9896   ??  S    sob01     0:08.83 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Support/fontd
+macbookpromikolaj   283   0,0  0,1  4385288   9392   ??  S    sob01     0:01.90 /usr/libexec/lsd
+macbookpromikolaj   282   0,0  0,2  4399928  17256   ??  S    sob01     0:33.40 /usr/libexec/trustd --agent
+macbookpromikolaj   281   0,0  0,3  4391676  27308   ??  S    sob01     0:07.55 /System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter -L
+macbookpromikolaj   279   0,0  0,1  4350956   4876   ??  S    sob01     0:05.48 /usr/sbin/distnoted agent
+macbookpromikolaj   277   0,0  0,4  4379684  35472   ??  S    sob01     0:21.66 /usr/libexec/UserEventAgent (Aqua)
+root               276   0,0  0,1  4326812   4432   ??  Ss   sob01     0:00.02 /usr/libexec/securityd_service
+macbookpromikolaj   275   0,0  0,1  4351096   4220   ??  S    sob01     0:13.61 /usr/sbin/cfprefsd agent
+macbookpromikolaj   274   0,0  0,1  4377528  12256   ??  S    sob01     0:00.62 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+root               269   0,0  0,1  4379196  11164   ??  Ss   sob01     0:16.85 /System/Library/PrivateFrameworks/AmbientDisplay.framework/Versions/A/XPCServices/com.apple.AmbientDisplayAgent.xpc/Contents/MacOS/com.apple.AmbientDisplayAgent
+root               256   0,0  0,1  4376552   5680   ??  Ss   sob01     0:00.24 /usr/libexec/biokitaggdd
+root               255   0,0  0,2  4378456  13224   ??  Ss   sob01     0:01.87 /usr/libexec/biometrickitd --launchd
+root               253   0,0  0,1  4377496  11272   ??  Ss   sob01     0:00.61 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+macbookpromikolaj   252   0,0  0,1  4376944   9592   ??  Ss   sob01     0:00.73 aceagent
+root               247   0,0  0,0  4350956   1372   ??  S    sob01     0:00.19 /usr/sbin/distnoted agent
+root               242   0,0  0,1  4353100   6112   ??  Ss   sob01     0:02.05 /System/Library/PrivateFrameworks/PerformanceAnalysis.framework/Versions/A/XPCServices/com.apple.PerformanceAnalysis.animationperfd.xpc/Contents/MacOS/com.apple.PerformanceAnalysis.animationperfd
+root               241   0,0  0,1  4377876   6424   ??  Ss   sob01     0:00.34 /System/Library/CoreServices/sharedfilelistd
+root               231   0,0  0,1  4378208   6352   ??  S    sob01     0:01.39 /usr/sbin/systemstats --logger-helper /private/var/db/systemstats
+root               230   0,0  0,1  4349916   4876   ??  Ss   sob01     0:05.90 /usr/libexec/sysmond
+root               229   0,0  0,1  4353380   6192   ??  Ss   sob01     0:00.64 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/com.apple.CodeSigningHelper.xpc/Contents/MacOS/com.apple.CodeSigningHelper
+root               219   0,0  0,1  4367972   5316   ??  Ss   sob01     0:00.09 /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/CVMServer
+root               213   0,0  0,9  5312208  71904   ??  Ss   sob01     1:53.07 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mds_stores
+root               212   0,0  0,1  4391936  10196   ??  Ss   sob01     0:07.73 /System/Library/PrivateFrameworks/TCC.framework/Resources/tccd system
+root               211   0,0  0,1  4300580   8836   ??  Ss   sob01     0:00.25 /usr/libexec/thermald
+root               209   0,0  0,1  4318580   5284   ??  Ss   sob01     0:02.23 /usr/libexec/watchdogd
+_analyticsd        194   0,0  0,1  4378924   8564   ??  Ss   sob01     0:03.95 /System/Library/PrivateFrameworks/CoreAnalytics.framework/Support/analyticsd
+_nsurlstoraged     185   0,0  0,1  4350376   7024   ??  Ss   sob01     0:00.61 /usr/libexec/nsurlstoraged --privileged
+_cmiodalassistants   182   0,0  0,1  4408232   7864   ??  Ss   sob01     2:14.11 /System/Library/Frameworks/CoreMediaIO.framework/Resources/VDC.plugin/Contents/Resources/VDCAssistant
+root               179   0,0  0,2  4388656  14720   ??  Ss   sob01     1:26.87 /usr/libexec/airportd
+root               178   0,0  0,1  4349732   5576   ??  Ss   sob01     0:00.25 /usr/libexec/apfsd
+root               176   0,0  0,1  4333312   4428   ??  Ss   sob01     0:00.02 /usr/libexec/multiversed
+root               174   0,0  0,1  4352424   4660   ??  Ss   sob01     0:00.58 /System/Library/PrivateFrameworks/CoreSymbolication.framework/coresymbolicationd
+root               172   0,0  0,1  4377540   5604   ??  Ss   sob01     0:03.99 /usr/sbin/mDNSResponderHelper
+_mdnsresponder     171   0,0  0,1  4380276   8496   ??  Ss   sob01     0:46.32 /usr/sbin/mDNSResponder
+root               165   0,0  0,1  4377592   8156   ??  Ss   sob01     0:01.11 /System/Library/PrivateFrameworks/WirelessDiagnostics.framework/Support/awdd
+_networkd          159   0,0  0,2  4392988  12832   ??  Ss   sob01     0:21.50 /usr/libexec/symptomsd
+root               156   0,0  0,1  4387612   9816   ??  Ss   sob01     0:04.43 /usr/libexec/lsd runAsRoot
+root               153   0,0  0,1  4387852   7868   ??  Ss   sob01     0:01.16 /usr/libexec/nehelper
+_nsurlsessiond     149   0,0  0,2  4385692  16284   ??  Ss   sob01     0:03.83 /usr/libexec/nsurlsessiond --privileged
+root               148   0,0  0,2  4383444  16988   ??  Ss   sob01     0:14.51 /System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/contextstored
+root               143   0,0  0,2  4385880  16820   ??  Ss   sob01     0:07.70 /usr/libexec/mobileassetd
+root               142   0,0  0,1  4387732  11112   ??  Ss   sob01     0:17.40 /usr/libexec/trustd
+root               129   0,0  0,1  4342052   8060   ??  Ss   sob01     0:00.03 /System/Library/Frameworks/PCSC.framework/Versions/A/XPCServices/com.apple.ctkpcscd.xpc/Contents/MacOS/com.apple.ctkpcscd
+root               120   0,0  0,1  4398032   8976   ??  Ss   sob01     0:08.00 /System/Library/CoreServices/coreservicesd
+root               111   0,0  0,0  4350444   3888   ??  Ss   sob01     0:13.95 /usr/sbin/cfprefsd daemon
+root               106   0,0  0,1  4380496   8336   ??  Ss   sob01     0:01.27 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/authd.xpc/Contents/MacOS/authd
+root               105   0,0  0,2  4383256  13352   ??  Ss   sob01     0:05.60 /usr/libexec/syspolicyd
+root               104   0,0  0,1  4406540   7128   ??  Ss   sob01     0:02.07 /usr/libexec/amfid
+_distnote          103   0,0  0,0  4350956   2388   ??  Ss   sob01     0:01.95 /usr/sbin/distnoted daemon
+root               101   0,0  0,0  4325884   2100   ??  Ss   sob01     0:14.59 /usr/sbin/notifyd
+root               100   0,0  0,1  4378016  12560   ??  Ss   sob01     0:03.12 /usr/libexec/AirPlayXPCHelper
+_hidd               97   0,0  0,1  4383364  10336   ??  Ss   sob01     4:34.13 /usr/libexec/hidd
+root                96   0,0  0,1  4381076  11892   ??  Ss   sob01     0:44.87 /usr/sbin/bluetoothd
+root                94   0,0  0,1  4317140   4336   ??  Ss   sob01     0:00.02 /usr/sbin/KernelEventAgent
+root                93   0,0  0,1  4384552   7316   ??  Ss   sob01     0:00.64 /System/Library/PrivateFrameworks/GenerationalStorage.framework/Versions/A/Support/revisiond
+root                92   0,0  0,1  4349848   5692   ??  Ss   sob01     0:00.16 /System/Library/CoreServices/logind
+macbookpromikolaj    91   0,0  0,4  4978060  31256   ??  Ss   sob01     0:16.36 /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow console
+root                89   0,0  0,2  4380536  13164   ??  Ss   sob01     0:24.52 /usr/libexec/PerfPowerServices
+root                87   0,0  0,2  4382228  13248   ??  Ss   sob01     0:11.66 /usr/libexec/dasd
+_displaypolicyd     86   0,0  0,1  4352920   9596   ??  Ss   sob01     0:00.46 /usr/libexec/displaypolicyd -k 1
+root                85   0,0  0,1  4333908   4932   ??  Ss   sob01     0:00.02 autofsd
+_locationd          83   0,0  0,2  4394324  15596   ??  Ss   sob01     0:45.95 /usr/libexec/locationd
+_usbmuxd            81   0,0  0,1  4377536   7416   ??  Ss   sob01     0:12.79 /System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/Resources/usbmuxd -launchd
+root                80   0,0  0,1  4380024   9960   ??  Ss   sob01     0:10.89 /usr/sbin/securityd -i
+_timed              79   0,0  0,1  4376816   6880   ??  Ss   sob01     0:02.62 /usr/libexec/timed
+root                78   0,0  0,2  4381920  13456   ??  Ss   sob01     0:10.51 /System/Library/CoreServices/launchservicesd
+root                77   0,0  0,1  4377884   6112   ??  Ss   sob01     0:00.26 /System/Library/PrivateFrameworks/Noticeboard.framework/Versions/A/Resources/nbstated
+root                76   0,0  0,2  4381864  19248   ??  Ss   sob01     0:07.25 /System/Library/PrivateFrameworks/ApplePushService.framework/apsd
+root                75   0,0  0,1  4400460  11088   ??  Ss   sob01     0:25.74 /usr/libexec/opendirectoryd
+root                71   0,0  0,2  4395068  19608   ??  Ss   sob01     0:06.38 /usr/libexec/coreduetd
+root                70   0,0  0,4  4377464  30680   ??  Ss   sob01     0:00.59 /System/Library/CoreServices/backupd.bundle/Contents/Resources/backupd-helper -launchd
+root                67   0,0  0,1  4376460   6824   ??  Ss   sob01     0:04.72 /usr/libexec/diskarbitrationd
+_iconservices       66   0,0  0,1  4351356   5016   ??  Ss   sob01     0:00.08 /System/Library/CoreServices/iconservicesd
+root                65   0,0  0,5  4512232  39448   ??  Ss   sob01     1:59.01 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Support/mds
+root                58   0,0  0,3  4444960  26172   ??  Ss   sob01     0:32.08 /usr/libexec/logd
+root                55   0,0  0,2  4377444  13828   ??  Ss   sob01     0:24.81 /System/Library/CoreServices/powerd.bundle/powerd
+root                54   0,0  0,1  4384620  11124   ??  Ss   sob01     0:14.01 /usr/libexec/configd
+root                52   0,0  0,2  4403616  19332   ??  Ss   sob01     1:00.15 /usr/sbin/systemstats --daemon
+_appleevents        51   0,0  0,1  4379132   7824   ??  Ss   sob01     0:00.69 /System/Library/CoreServices/appleeventsd --server
+root                48   0,0  0,3  4389100  25144   ??  Ss   sob01     0:05.56 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoted
+root                46   0,0  0,1  4473236   7936   ??  Ss   sob01     0:34.71 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/FSEvents.framework/Versions/A/Support/fseventsd
+root                45   0,0  0,1  4382260   7364   ??  Ss   sob01     0:05.22 /usr/libexec/kextd
+root                44   0,0  0,1  4333536   4824   ??  Ss   sob01     0:02.61 /System/Library/PrivateFrameworks/Uninstall.framework/Resources/uninstalld
+root                41   0,0  0,2  4379828  17812   ??  Ss   sob01     0:08.52 /usr/libexec/UserEventAgent (System)
+root                40   0,0  0,0  4350876   1140   ??  Ss   sob01     0:05.32 /usr/sbin/syslogd
+root              2837   0,0  0,0  4277688   1072 s000  R+    6:19     0:00.01 ps aux
+root                 1   0,0  0,2  4373820  16572   ??  Ss   sob01     3:22.71 /sbin/launchd
+macbookpromikolaj  2829   0,0  0,2  4355572  13532   ??  S     6:16     0:00.04 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+macbookpromikolaj  2828   0,0  0,2  4363300  13600   ??  S     6:16     0:00.04 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+macbookpromikolaj  2827   0,0  0,2  4391000  16628   ??  S     6:16     0:00.09 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+macbookpromikolaj  2826   0,0  0,2  4355440  13500   ??  S     6:16     0:00.04 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+macbookpromikolaj  2825   0,0  0,2  4364420  19812   ??  S     6:16     0:00.09 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+macbookpromikolaj  2824   0,0  0,3  4367648  21868   ??  S     6:16     0:00.09 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+macbookpromikolaj  2823   0,0  0,2  4364208  18772   ??  S     6:16     0:00.06 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+root              2821   0,0  0,1  4340788   6992   ??  Ss    6:16     0:00.02 /usr/sbin/ocspd
+root              2820   0,0  0,1  4362324   9584   ??  Ss    6:16     0:00.03 /usr/libexec/secinitd
